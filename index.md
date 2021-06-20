@@ -4,4 +4,4 @@ hello
 1. this is a work in progress
 2. we are all a work in progress.Hello
 
-[about us](about.md)
+[about me](about.md)
