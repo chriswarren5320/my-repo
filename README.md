@@ -1,6 +1,6 @@
-# my-repo
+# Christopher Robert Warren
 
-Welcome to my Repo
+Welcome to my Blog
 
-1. Don't forget
-2. Do forget
+1. this is a work in progress
+2. we are all a work in progress.
