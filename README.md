@@ -1,4 +1,8 @@
 # Christopher Robert Warren
+This is a practice run through 
+
+below is the information that will be helpful in creating this practice blog 
+
 
 Welcome to my Blog
 
