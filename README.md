@@ -1,6 +1,8 @@
 # Christopher Robert Warren
 This is a practice run through 
 
+https://www.youtube.com/watch?v=gzxSnyLoSgY&list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq&index=2
+
 below is the information that will be helpful in creating this practice blog 
 
 
