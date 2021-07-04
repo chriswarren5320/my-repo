@@ -10,4 +10,6 @@ hello everyone
 
 [poetry](poetry.md)
 
+[Interesting blogs](Interesting blogs.md)
+
 ![IMG_8CC8D69DE692-1 2](https://user-images.githubusercontent.com/63212930/124370803-236cfa80-dc49-11eb-97e4-61f2b53590f7.jpeg)
